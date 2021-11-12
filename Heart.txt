@@ -1,0 +1,11 @@
+Which age group has max chances of getting heart attack ?
+Which gender is in danger to get coronary heart disease, stroke as well as peripheral vascular disease?
+Which age group is considered as the healthiest stage ?
+What is the highest blood cholesterol level and lowest oldpeak value?
+Which age has highest thalachh and is not a male ?
+Which graphical chart is most suitable for the given data?
+Identify the type of variable of each header.
+On what basis output is given as 1 or 0 ?
+The survey is conducted among people between the range _____.
+State the age which has chol less than 125mg/dL and greater than 200mg/dL (considered abnormal)?
+
