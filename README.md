@@ -1,13 +1,13 @@
-# Cardio-Vascular-Prediction
+## Cardio-Vascular-Prediction
 
 Today's generation is extremely occupied in pursuing their dreams and are continuously devoting their time in the advancement of mankind. Running after wealth has reduced their health. To overcome the problem, here we aim to help them increase their lifeline by predicting Cardiovascular Disease and making them alert to take good care of themselves.
 
 
-Will Predicting Cardiovascular Ailment  Help to Save the Life of an individual ? 
+##Will Predicting Cardiovascular Ailment  Help to Save the Life of an individual ? 
 
 The system is responsible for prediction of disease and not for curing the disease.It will surely help them to check whether they have a possibility of getting a heart attack in future or not  with the help of Medical Report.
 
-Methodology
+##Methodology
 
 Patient is asked to provide his medical details from report including:
 
