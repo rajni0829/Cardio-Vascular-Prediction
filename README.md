@@ -4,6 +4,33 @@ Today's generation is extremely occupied in pursuing their dreams and are contin
 <br />
 
 
+<div id="top"></div>
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/skshamagarwal/CAP">
+    <img src="https://miro.medium.com/max/604/1*6WGnPZ5lkiT2QgK-JP1DFw.png" alt="Logo" height="80">
+  </a>
+
+  <h3 align="center">CardioVascular Ailment Prediction - CAP</h3>
+
+  <p align="center">
+    An awesome Heart Attack Prediction application using Machine Learning Techniques!
+    <br />
+    <br />
+    <a href="https://drive.google.com/file/d/1vKl6QniQEvveoZ0M93NccAAaVvo8Bpme/view?usp=sharing"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://mycap.herokuapp.com/">View Demo</a>
+    ·
+    <a href="https://github.com/rajni0829/Cardio-Vascular-Prediction/issues/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/rajni0829/Cardio-Vascular-Prediction/issues">Request Feature</a>
+  </p>
+</div>
+
+
 
 ## Methodology
 
@@ -19,3 +46,5 @@ The System will get hold of all characteristics and give output as ‘0’ if th
 
 The system is responsible for prediction of disease and not for curing the disease.It will surely help them to check whether they have a possibility of getting a heart attack in future or not  with the help of Medical Report.<br />
 <br />
+
+
